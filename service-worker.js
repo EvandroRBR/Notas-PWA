@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.2126b56f80f3c150f5ccff87bf52d376.js"
+  "/precache-manifest.11d270d63ee03d10c75615052200c6bf.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "keep-view"});
